@@ -8,3 +8,5 @@
 🌌 Creating unique and intuitive UI/UX design <br />
 🌌 Diving deeper into Linux (using Arch) <br />
 🌌 Penetration testing, hacking and scripting
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dr00gy)](https://github.com/anuraghazra/github-readme-stats)
