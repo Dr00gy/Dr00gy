@@ -13,4 +13,4 @@
 <br />
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dr00gy&repo=github-readme-stats&show_icons=true&theme=aura_dark)](https://github.com/Dr00gy/Logicky-magnum-opus-naucny)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dr00gy&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
