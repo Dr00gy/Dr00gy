@@ -9,4 +9,4 @@
 🌌 Diving deeper into Linux (using Arch) <br />
 🌌 Penetration testing, hacking and scripting
 
-[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dr00gy)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dr00gy)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical&hide_title=true&hide_rank=true)
