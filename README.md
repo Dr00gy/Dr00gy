@@ -10,7 +10,5 @@
 🌌 Penetration testing, hacking and scripting
 
 [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dr00gy&show_icons=true&theme=aura_dark&hide_title=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
-<br />
+<br /><br />
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dr00gy&repo=Logicky-magnum-opus-naucny&show_icons=true&theme=aura_dark)](https://github.com/Dr00gy/Logicky-magnum-opus-naucny)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dr00gy&repo=Logicky-magnum-opus-naucny&show_icons=true&theme=aura_dark)](https://github.com/Dr00gy/Logicky-magnum-opus-naucny)
