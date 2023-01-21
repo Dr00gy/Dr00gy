@@ -1,10 +1,10 @@
-<br /><br />
 ![alt text](https://cdn.discordapp.com/attachments/1010646787343786016/1066341434048921630/banner.png)
 
 # Who am I:
 🎓 Finished highschool with competency in networking. <br />
 🎓 I am trying to pass my first year of university (computer science degree). <br />
 🌌 Intern at a company with lead in metalography technology. <br />
+👥 Czech / Slovak native who's fluent in English. I speak some German and Finnish aswell. <br />
 ❄️ I want to go to Finland for my second year of uni. <br /><br />
 
 # What I'm doing as of now:
