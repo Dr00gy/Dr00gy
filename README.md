@@ -9,8 +9,7 @@
 
 # What I'm doing as of now:
 🌌 Assembly practice <br />
-🌌 Creating unique and intuitive UI/UX design <br />
-🌌 Diving deeper into Linux (using Arch) <br />
+🌌 MORE ARCH <br />
 🌌 Penetration testing, hacking and scripting <br /><br />
 
 [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dr00gy&show_icons=true&theme=aura_dark&hide_title=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
