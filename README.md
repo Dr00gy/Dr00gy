@@ -8,7 +8,8 @@
 ❄️ I want to go to Finland for my second year of uni. <br /><br />
 
 # What I'm doing as of now:
-🌌 Assembly practice <br />
+🌌 Bachelor thesis research <br />
+🌌 C++ practice <br />
 🌌 MORE ARCH <br />
 🌌 Penetration testing, hacking and scripting <br /><br />
 
