@@ -2,10 +2,9 @@
 
 # Who am I:
 🎓 Finished highschool with competency in networking. <br />
-🎓 I am trying to pass my first year of university (computer science degree). <br />
+🎓 I am trying to pass my second year of university (computer science degree). <br />
 🌌 Software tester at a company with lead in metalography technology. <br />
-👥 Czech / Slovak native who's fluent in English. I speak some German and Finnish aswell. <br />
-❄️ I want to go to Finland for my second year of uni. <br /><br />
+👥 Czech / Slovak native who's fluent in English. I speak some German and Finnish aswell. <br /><br />
 
 # What I'm doing as of now:
 🌌 Bachelor thesis research <br />
