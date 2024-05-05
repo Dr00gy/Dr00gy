@@ -1,5 +1,3 @@
-![alt text](https://cdn.discordapp.com/attachments/1010646787343786016/1066341434048921630/banner.png)
-
 # Who am I:
 🎓 Finished highschool with competency in networking. <br />
 🎓 I am trying to pass my second year of university (computer science degree). <br />
