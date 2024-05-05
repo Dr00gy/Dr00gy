@@ -8,7 +8,6 @@
 
 # What I'm doing as of now:
 🌌 Bachelor thesis research <br />
-🌌 Learning Julia <br />
 🌌 Penetration testing, hacking and scripting <br /><br />
 
 [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dr00gy&show_icons=true&theme=aura_dark&hide_title=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
