@@ -1,3 +1,6 @@
+<img src="https://github.com/Dr00gy/Dr00gy/blob/main/spin.svg"/>
+
+
 # Who am I:
 🎓 A successful graduate with competency in networking. <br />
 🎓 A computer science student trying to get a bachelor's degree. <br />
