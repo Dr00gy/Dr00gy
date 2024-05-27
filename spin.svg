@@ -18,7 +18,7 @@ a.tom {
   width: 410px;
   height: 450px;
   background: #000000;
-  background-image: url("https://media.discordapp.net/attachments/1121810544211529759/1134581923000356955/image.png?ex=66559481&is=66544301&hm=441335a5cc325351de28ca410c203b547188dd2e20a8f74fbaa0dd553a5c5198&=&format=webp&quality=lossless");
+  background-image: url("https://github.com/Dr00gy/Dr00gy/blob/main/logo.png?raw=true");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
