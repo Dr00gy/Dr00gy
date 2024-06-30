@@ -6,7 +6,7 @@
 
 # What I'm doing as of now:
 🌌 Bachelor thesis writing and development. <br />
-🌌 Trying to get more into pentesting / hacking, different technologies like Rust etc. <br /><br />
+🌌 Trying to get more into pentesting / hacking in general. <br /><br />
 
 [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dr00gy&show_icons=true&theme=aura_dark&hide_title=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 <br /><br />
