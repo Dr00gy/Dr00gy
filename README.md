@@ -12,7 +12,7 @@
   <table>
     <tr>
       <td style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dr00gy&theme=aura_dark&hide=makefile" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dr00gy&theme=aura_dark&hide=makefile" style="width: 120%; height: auto;"/>
       </td>
       <td align="left" style="border: none;">
         <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dr00gy&show_icons=true&theme=aura_dark&hide_title=true&hide_rank=true" />
