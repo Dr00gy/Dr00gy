@@ -9,7 +9,7 @@
 🌌 Trying to get more into pentesting / hacking in general. <br /><br />
 
 <div align="center">
-  <table style="border: 0; border-collapse: collapse;">
+  <table>
     <tr>
       <td style="border: none;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dr00gy&theme=aura_dark&hide=makefile" />
