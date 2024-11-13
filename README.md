@@ -1,4 +1,4 @@
-<img src="https://media.discordapp.net/attachments/739925719122968718/1306253341193670757/desktop-wallpaper-landscape-pixel-art-artist-and-background-pixel-sunset.png?ex=6735feb9&is=6734ad39&hm=d28e09d64761676baf65d6900fc527c9a10ea018e23a5cfd95a248c1768cdc1f&=&format=webp&quality=lossless" width="1020" />
+<img src="https://media.discordapp.net/attachments/739925719122968718/1306253340287565885/luySLxe.png?ex=6735feb9&is=6734ad39&hm=45ac38e28cacc29173534444708047305c23b5dc3d328187fe369b403421cdf6&=&format=webp&quality=lossless&width=812&height=541" width="1020" />
 
 # Who am I:
 🎓 A successful graduate with competency in networking. <br />
