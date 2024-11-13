@@ -11,10 +11,10 @@
 <div align="center">
   <table>
     <tr>
-      <td style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dr00gy&theme=aura_dark&hide=makefile" style="width: 120%; height: auto;"/>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dr00gy&theme=aura_dark&hide=makefile"/>
       </td>
-      <td align="left" style="border: none;">
+      <td align="left">
         <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dr00gy&show_icons=true&theme=aura_dark&hide_title=true&hide_rank=true" />
         <a href="https://github.com/Dr00gy/Logicky-magnum-opus-naucny">
           <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dr00gy&repo=Logicky-magnum-opus-naucny&show_icons=true&theme=aura_dark" />
