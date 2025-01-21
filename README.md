@@ -1,4 +1,4 @@
-<img src="https://media.discordapp.net/attachments/739925719122968718/1306253340287565885/luySLxe.png?ex=6735feb9&is=6734ad39&hm=45ac38e28cacc29173534444708047305c23b5dc3d328187fe369b403421cdf6&=&format=webp&quality=lossless&width=812&height=541" width="1020" />
+<img src="https://i.pinimg.com/736x/5f/9d/f4/5f9df47df046d16fc4c63a54c6211c1d.jpg" width="1020" />
 
 # Who am I:
 🎓 A successful graduate with competency in networking. <br />
