@@ -3,12 +3,12 @@
 # Who am I:
 🎓 A successful graduate with competency in networking. <br />
 🎓 A computer science student trying to get a bachelor's degree. <br />
-🌌 A software tester at a company with lead in metalography technology. <br />
+🌌 A software dev / tester at a company with lead in metalography technology. <br />
 👥 A Czech / Slovak native who's fluent in English. I speak some Polish, German and Finnish aswell. <br /><br />
 
 # What I'm doing as of now:
 🌌 Bachelor thesis writing and development. <br />
-🌌 Trying to get more into pentesting / hacking in general. <br /><br />
+🌌 Working to become a cybersec specialist in the company. <br /><br />
 
 <div align="center">
   <table>
