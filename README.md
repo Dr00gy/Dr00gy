@@ -22,7 +22,7 @@
 
 <br />
 
-# Skills and experience:
+# Experience with:
 <div align="center">
 	<table>
 		<tr>
