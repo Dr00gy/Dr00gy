@@ -10,18 +10,6 @@
 🌌 Bachelor thesis writing and development. <br />
 🌌 Working to become a cybersec specialist in the company, while also helping out with the new DevOps platform. <br /><br />
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dr00gy&theme=aura_dark&hide=makefile"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br />
-
 # Experience with:
 <div align="center">
 	<table>
