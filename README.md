@@ -7,8 +7,7 @@
 👥 A Czech / Slovak native who's fluent in English. I speak some Polish, German and Finnish aswell. <br /><br />
 
 # What I'm doing as of now:
-🌌 Bachelor thesis writing and development. <br />
-🌌 Working to become a cybersec specialist in the company, while also helping out with the new DevOps platform. <br /><br />
+🌌 Working to become a cybersec specialist in the company, whilst also helping out with the new DevOps platform. <br /><br />
 
 # Experience with:
 <div align="center">
