@@ -1,13 +1,12 @@
 <img src="https://i.pinimg.com/736x/5f/9d/f4/5f9df47df046d16fc4c63a54c6211c1d.jpg" width="1020" />
 
 # Who am I:
-🎓 A successful graduate with competency in networking. <br />
-🎓 A computer science student trying to get a bachelor's degree. <br />
+🎓 A computer science undergraduate trying to obtain an engineering degree, with additional competency in networking from secondary education. <br />
 🌌 A software dev / tester at a company with lead in materialography technology. <br />
 👥 A Czech / Slovak native who's fluent in English. I speak some Polish, German and Finnish aswell. <br /><br />
 
 # What I'm doing as of now:
-🌌 Working to become a cybersec specialist in the company, whilst also helping out with the new DevOps platform. <br /><br />
+🌌 Working to become a cybersec specialist in the company. <br /><br />
 
 # Experience with:
 <div align="center">
